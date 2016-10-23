@@ -22,7 +22,6 @@ Espero ter ajudado!
 * **26 de Outubro** | [Xamarin Summit Brasil](http://xamarinsummit.com.br) | São Paulo
 
 #### Novembro
-* **7 e 8 de Novembro** | [Microsoft Tech Summit São Paulo](https://www.microsoft.com/pt-br/techsummit/sao-paulo.aspx) | São Paulo, SP
 * **11 de Novembro** | [Xamarin Dev Days - Porto Alegre](https://ti.to/xamarin/dev-days-porto-alegre) | Porto Alegre, RS
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
@@ -36,6 +35,10 @@ Espero ter ajudado!
 #### BA, Salvador
 * [Bahia .NET Developers Group](https://www.meetup.com/Bahia-NET-Developers-Group/)
 * [SQL Server User Group - Bahia](https://www.meetup.com/SQLServerBahia/)
+
+### GO, Goiânia
+* [Desenvolvedores .NET Goiás](https://www.devgoias.net/)
+* [Override IT Community](http://www.meetup.com/pt-BR/Override/)
 
 #### RJ, Rio de Janeiro
 * [Cafe.NetRj](https://www.meetup.com/Cafe-NetRj/)
