@@ -9,9 +9,9 @@ Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de se
 * **[Eventos e conferências](#eventos-e-conferências)**
 * **[Meetups](#meetups)**
 
-> Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
+Se você quiser adicionar algo a esta lista ou editar alguma informação, pode enviar um pull request, [me dar um ping no twitter] (https://twitter.com/williamsrodz) ou enviar um email para williamsrz@outlook.com.
 
---
+Espero ter ajudado!
 
 # [Eventos e conferências](#eventos-e-conferências)
 
@@ -29,7 +29,6 @@ Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de se
 ### Dezembro
 * **19 de Novembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
 
----
 
 # [Meetups](#meetups)
 
@@ -68,9 +67,6 @@ Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de se
 * [.NET Curitiba] (https://www.meetup.com/NET-Curitiba/)
 * [Xamarin MonkeyHub Curitiba](https://www.meetup.com/Xamarin-Monkey-Hub-Curitiba/)
 
----
+--
 
-Se você quiser adicionar algo a esta lista ou editar alguma informação, pode enviar um pull request, [me dar um ping no twitter] (https://twitter.com/williamsrodz) ou enviar um email para williamsrz@outlook.com 
-
-Espero ter ajudado, obrigado!
-
+> Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
