@@ -37,7 +37,7 @@ Espero ter ajudado!
 * [Bahia .NET Developers Group](https://www.meetup.com/Bahia-NET-Developers-Group/)
 * [SQL Server User Group - Bahia](https://www.meetup.com/SQLServerBahia/)
 
-### GO, Goiânia
+#### GO, Goiânia
 * [Desenvolvedores .NET Goiás](https://www.devgoias.net/)
 * [Override IT Community](http://www.meetup.com/pt-BR/Override/)
 
