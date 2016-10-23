@@ -6,14 +6,14 @@ Todo mundo sabe como é complicado acompanhar e ficar sabendo de onde e quando e
 
 Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de ser um index e facilitar a sua e a minha vida, ela é dividida em: 
 
-* **[Eventos e conferências](#eventos)**
+* **[Eventos e conferências](#eventos-e-conferências)**
 * **[Meetups](#meetups)**
 
 > Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
 
 --
 
-# [Eventos e conferências](#eventos)
+# [Eventos e conferências](#eventos-e-conferências)
 
 ### 2016
 
