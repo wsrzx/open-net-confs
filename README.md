@@ -4,11 +4,14 @@
 
 Todo mundo sabe como é complicado acompanhar e ficar sabendo de onde e quando estão acontecendo, meetups, conferências e eventos de tecnologia relacionadas a plataforma .NET.
 
-Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de ser um index e facilitar a sua e a minha vida, ela é dividida em, uma **lista de eventos e conferências** e outra de **meetups**
+Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de ser um index e facilitar a sua e a minha vida, ela é dividida em: 
 
-Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
+* **[Eventos e conferências](#eventos)**
+* **[Meetups](#meetups)**
 
-# Eventos e conferências
+> Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
+
+# [Eventos e conferências](#eventos)
 
 ### 2016
 
@@ -26,7 +29,7 @@ Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https:
 
 ---
 
-# Meetups
+# [Meetups](#meetups)
 
 #### BA, Salvador
 * [Bahia .NET Developers Group](https://www.meetup.com/Bahia-NET-Developers-Group/)
