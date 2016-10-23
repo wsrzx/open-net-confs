@@ -45,6 +45,9 @@ Espero ter ajudado!
 #### SC, Florianópolis
 * [DotNetFloripa](https://www.meetup.com/DotNetFloripa/)
 
+#### SC, Videira
+* [Developers Videira] (https://www.meetup.com/DevelopersVideira/)
+
 #### SP, Campinas
 * [Programadores .NET Empreendedores](https://www.meetup.com/Programadores-NET-Empreendedores/)
 
@@ -67,8 +70,6 @@ Espero ter ajudado!
 * [.NET Curitiba] (https://www.meetup.com/NET-Curitiba/)
 * [Xamarin MonkeyHub Curitiba](https://www.meetup.com/Xamarin-Monkey-Hub-Curitiba/)
 
-#### SC, Videira
-* [Developers Videira] (https://www.meetup.com/DevelopersVideira/)
 
 --
 
