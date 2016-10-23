@@ -67,6 +67,9 @@ Espero ter ajudado!
 * [.NET Curitiba] (https://www.meetup.com/NET-Curitiba/)
 * [Xamarin MonkeyHub Curitiba](https://www.meetup.com/Xamarin-Monkey-Hub-Curitiba/)
 
+#### SC, Videira
+* [Developers Videira] (https://www.meetup.com/DevelopersVideira/)
+
 --
 
 > Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
