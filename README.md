@@ -1,6 +1,6 @@
 # Conferências, Meetups e eventos de tecnologia relacionados ao .NET
 
-## Sobre a lista
+## Sobre
 
 Todo mundo sabe como é complicado acompanhar e ficar sabendo de onde e quando estão acontecendo, meetups, conferências e eventos de tecnologia relacionadas a plataforma .NET.
 
@@ -10,6 +10,8 @@ Coçando a minha própria coceira, resolvi criar esta lista com o objetivo de se
 * **[Meetups](#meetups)**
 
 > Está lista é uma versão inspirada em [Juliana Chahoud - BRConferences](https://github.com/jchahoud/BRConferences)
+
+--
 
 # [Eventos e conferências](#eventos)
 
