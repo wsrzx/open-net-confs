@@ -27,7 +27,7 @@ Espero ter ajudado!
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
 
 ### Dezembro
-* **19 de Novembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
+* **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
 
 
 # [Meetups](#meetups)
