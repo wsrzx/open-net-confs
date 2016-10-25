@@ -74,7 +74,7 @@ Espero ter ajudado!
 #### PR, Curitiba
 * [.NET Curitiba] (https://www.meetup.com/NET-Curitiba/)
 * [Xamarin MonkeyHub Curitiba](https://www.meetup.com/Xamarin-Monkey-Hub-Curitiba/)
-* [Palestra Open Sorce] - UENP Bandeirantes/PR (24/11/2016)
+* Palestra Microsoft Open Sorce - UENP Bandeirantes/PR (24/11/2016)
 
 --
 
