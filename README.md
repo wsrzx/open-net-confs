@@ -27,6 +27,7 @@ Espero ter ajudado!
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
 * **24 de Novembro** | [Palestra Microsoft Open Sorce- UENP](http://www.uenp.edu.br) | Bandeirantes, PR
+* **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
 
 ### Dezembro
 * **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
