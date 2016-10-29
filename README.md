@@ -28,6 +28,7 @@ Espero ter ajudado!
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
 * **24 de Novembro** | [Palestra Microsoft Open Sorce- UENP](http://www.uenp.edu.br) | Bandeirantes, PR
 * **25 de Novembro** | [Meetup - Azure Fridays São Paulo](http://www.meetup.com/pt-BR/azure-friday-sao-paulo/) | São Paulo, SP
+* **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
 
 ### Dezembro
 * **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
