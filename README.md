@@ -25,7 +25,9 @@ Espero ter ajudado!
 * **7 e 8 de Novembro** | [Microsoft Tech Summit São Paulo](https://www.microsoft.com/pt-br/techsummit/sao-paulo.aspx) | São Paulo, SP
 * **11 de Novembro** | [Xamarin Dev Days - Porto Alegre](https://ti.to/xamarin/dev-days-porto-alegre) | Porto Alegre, RS
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
+* **12 de Novembro** | [InteropMix - Curitiba](http://interopmix.com.br) | Curitiba, PR
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
+* **19 de Novembro** | [InteropMix - São Paulo](http://interopmix.com.br) | São Paulo, SP
 * **24 de Novembro** | [Palestra Microsoft Open Sorce- UENP](http://www.uenp.edu.br) | Bandeirantes, PR
 * **25 de Novembro** | [Meetup - Azure Fridays São Paulo](http://www.meetup.com/pt-BR/azure-friday-sao-paulo/) | São Paulo, SP
 * **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
