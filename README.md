@@ -26,9 +26,10 @@ Espero ter ajudado!
 * **11 de Novembro** | [Xamarin Dev Days - Porto Alegre](https://ti.to/xamarin/dev-days-porto-alegre) | Porto Alegre, RS
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
 * **12 de Novembro** | [InteropMix - Curitiba](http://interopmix.com.br) | Curitiba, PR
-* **17 de Novembro** | [Xamarin.Forms Além do básico: Animations e Custom Renderers](http://www.meetup.com/Developers-SP/) | São Paulo, SP
+* **17 de Novembro** | [Xamarin.Forms Além do básico: Animations e Custom Renderers](https://www.meetup.com/Developers-SP/events/235208932/) | São Paulo, SP
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
 * **19 de Novembro** | [InteropMix - São Paulo](http://interopmix.com.br) | São Paulo, SP
+* **19 de Novembro** | [Game LAB](https://www.meetup.com/Developers-SP/events/235153998/?eventId=235153998) | São Paulo, SP
 * **24 de Novembro** | [Palestra Microsoft Open Sorce- UENP](http://www.uenp.edu.br) | Bandeirantes, PR
 * **25 de Novembro** | [Meetup - Azure Fridays São Paulo](http://www.meetup.com/pt-BR/azure-friday-sao-paulo/) | São Paulo, SP
 * **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
