@@ -24,6 +24,7 @@ Espero ter ajudado!
 #### Novembro
 * **7 e 8 de Novembro** | [Microsoft Tech Summit São Paulo](https://www.microsoft.com/pt-br/techsummit/sao-paulo.aspx) | São Paulo, SP
 * **11 de Novembro** | [Xamarin Dev Days - Porto Alegre](https://ti.to/xamarin/dev-days-porto-alegre) | Porto Alegre, RS
+* **11 de Novembro** | [ASP.NET CORE](http://www.meetup.com/Random-Hacks/events/235145688/?eventId=235145688) | Belo Horizonte, MG
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
 * **12 de Novembro** | [InteropMix - Curitiba](http://interopmix.com.br) | Curitiba, PR
 * **17 de Novembro** | [Xamarin.Forms Além do básico: Animations e Custom Renderers](https://www.meetup.com/Developers-SP/events/235208932/) | São Paulo, SP
