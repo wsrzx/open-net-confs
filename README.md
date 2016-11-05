@@ -27,6 +27,7 @@ Espero ter ajudado!
 * **11 de Novembro** | [ASP.NET CORE](http://www.meetup.com/Random-Hacks/events/235145688/?eventId=235145688) | Belo Horizonte, MG
 * **12 de Novembro** | [Xamarin Dev Days - São Leopoldo](https://ti.to/xamarin/dev-days-sao-leopoldo) | São Leopoldo, RS
 * **12 de Novembro** | [InteropMix - Curitiba](http://interopmix.com.br) | Curitiba, PR
+* **12 de Novembro** | [ITerior Conference](http://iterior.com.br) | Franca, SP
 * **17 de Novembro** | [Xamarin.Forms Além do básico: Animations e Custom Renderers](https://www.meetup.com/Developers-SP/events/235208932/) | São Paulo, SP
 * **19 de Novembro** | [Xamarin Dev Days - Curitiba](https://ti.to/xamarin/dev-days-curitiba2) | Curitiba, PR
 * **19 de Novembro** | [InteropMix - São Paulo](http://interopmix.com.br) | São Paulo, SP
