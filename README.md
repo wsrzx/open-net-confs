@@ -38,6 +38,7 @@ Espero ter ajudado!
 * **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
 
 ### Dezembro
+* **03 de Dezembro** | [Meetup Cloud e Mobile](https://www.meetup.com/gdgcuritiba/events/235412559/) | Curitiba, PR
 * **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
 
 
