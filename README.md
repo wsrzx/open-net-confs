@@ -36,11 +36,12 @@ Espero ter ajudado!
 * **24 de Novembro** | [Palestra Microsoft Open Sorce- UENP](http://www.uenp.edu.br) | Bandeirantes, PR
 * **25 de Novembro** | [Meetup - Azure Fridays São Paulo](http://www.meetup.com/pt-BR/azure-friday-sao-paulo/) | São Paulo, SP
 * **26 de Novembro** | [Azure Weekend Santos](http://www.meetup.com/pt-BR/Comunidade-Net-Baixada/events/234838672/) | Santos, SP
-
+* **26 de Novembro** | [Open Source Mobile Experienc](http://aka.ms/ossxamarin) | São Paulo, SP
+ 
 ### Dezembro
-* **03 de Dezembro** | [Meetup Cloud e Mobile](https://www.meetup.com/gdgcuritiba/events/235412559/) | Curitiba, PR
-* **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
 
+* **03 de Dezembro** | [Override Meeting S01 E05](https://www.facebook.com/events/1087493154703858/) | Sebrae Goiás, GO
+* **10 de Dezembro** | [Xamarin Dev Days - Sao Paulo](https://ti.to/xamarin/dev-days-sao-paulo2) | São Paulo, PR
 
 # [Meetups](#meetups)
 
