@@ -21,6 +21,7 @@ Espero ter ajudado!
 #### Janeiro
 * **16 a 20 de Janeiro** | [Azure Tech Nights](http://azuretechnights.azurewebsites.net) | On-line
 * **26 de Janeiro** | [Xamarin.Forms: MVVM com Prism](https://www.meetup.com/Developers-SP/events/237000911/) | São Paulo
+* **28 de Janeiro** | [Primeiro Meetup da Comunidade .Net São Paulo](https://www.meetup.com/pt-BR/Comunidade-NET-Sao-Paulo/events/236844928/)
 * **30 de Janeiro** | [3º meetup Brasil.NET](https://www.meetup.com/Brasil-NET/events/236828026/) | São Paulo
 
 #### Fevereiro
