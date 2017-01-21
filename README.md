@@ -25,6 +25,7 @@ Espero ter ajudado!
 * **30 de Janeiro** | [3º meetup Brasil.NET](https://www.meetup.com/Brasil-NET/events/236828026/) | São Paulo
 
 #### Fevereiro
+* **02 de Fevereiro** | [Xamarin Sem Preconceitos...](https://www.meetup.com/Random-Hacks/events/237049580/?eventId=237049580) | Belo Horizonte, MG  
 
 #### Março
 
@@ -56,6 +57,9 @@ Espero ter ajudado!
 #### GO, Goiânia
 * [Desenvolvedores .NET Goiás](https://www.devgoias.net/)
 * [Override IT Community](http://www.meetup.com/pt-BR/Override/)
+
+#### MG, Belo Horizonte
+* [Random Hacks](https://www.meetup.com/pt-BR/Random-Hacks/)
 
 #### RJ, Rio de Janeiro
 * [Cafe.NetRj](https://www.meetup.com/Cafe-NetRj/)
