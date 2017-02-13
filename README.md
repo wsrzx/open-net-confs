@@ -22,16 +22,20 @@ Espero ter ajudado!
 * **16 a 20 de Janeiro** | [Azure Tech Nights](http://azuretechnights.azurewebsites.net) | On-line
 * **26 de Janeiro** | [Xamarin.Forms: MVVM com Prism](https://www.meetup.com/Developers-SP/events/237000911/) | São Paulo
 * **28 de Janeiro** | [Primeiro Meetup da Comunidade .Net São Paulo](https://www.meetup.com/pt-BR/Comunidade-NET-Sao-Paulo/events/236844928/)
-* **30 de Janeiro** | [3º meetup Brasil.NET](https://www.meetup.com/Brasil-NET/events/236828026/) | São Paulo
+* **30 de Janeiro** | [3º meetup Brasil.NET](https://www.meetup.com/Brasil-NET/events/236828026/) | São Paulo, SP
 
 #### Fevereiro
-* **02 de Fevereiro** | [Xamarin Sem Preconceitos...](https://www.meetup.com/Random-Hacks/events/237049580/?eventId=237049580) | Belo Horizonte, MG  
+* **02** | [Xamarin Sem Preconceitos...](https://www.meetup.com/Random-Hacks/events/237049580/?eventId=237049580) | Belo Horizonte, MG  
+* **15** | [Azure Rocks](https://www.meetup.com/azure-rocks/events/237149023/?eventId=237149023) | São Paulo, SP
 
 #### Março
 
 #### Abril
 
 #### Maio
+* **03** | [TDC Trilha Xamarin](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-xamarin) | Florianópolis, SC
+* **05** | [TDC Trilha .NET](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-dot-net) | Florianópolis, SC
+* **26 e 27** | [Xamarin Summit Brasil](http://xamarinsummit.com.br/) | São Paulo, SP
 
 #### Junho
 
