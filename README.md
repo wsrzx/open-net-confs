@@ -29,8 +29,12 @@ Espero ter ajudado!
 * **15** | [Azure Rocks](https://www.meetup.com/azure-rocks/events/237149023/?eventId=237149023) | São Paulo, SP
 
 #### Março
+* **07** | [#somosdevelopers](https://www.meetup.com/pt-BR/Brasil-NET/events/237768024/) | São Paulo, SP
+* **13 a 17** | [Codificando Night Week](http://codificandoweek.azurewebsites.net/) | On-line 
 
 #### Abril
+* **01** | [Capivara Codes Conference](http://capivara.codes/) | Curitiba, PR
+* **22** | [Global Azure Bootcamp Curitiba](http://gabcwb.azurewebsites.net/) | Curitiba, PR
 
 #### Maio
 * **03** | [TDC Trilha Xamarin](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-xamarin) | Florianópolis, SC
@@ -38,6 +42,7 @@ Espero ter ajudado!
 * **26 e 27** | [Xamarin Summit Brasil](http://xamarinsummit.com.br/) | São Paulo, SP
 
 #### Junho
+* **03** | [Visual Studio Summit](http://www.visualstudiosummit.com.br/) | São Paulo, SP
 
 #### Julho
 
